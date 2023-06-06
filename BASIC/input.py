@@ -14,12 +14,12 @@ for t in arr:
     else:
         print("Odd Number: ",t);
 
-x=input("Enter the number:").split();
+# x=input("Enter the number:").split();
 # print(int(x)+1);
 # print("y",int(y)+1);
 
-for t in x:
-    print(int(t)+1);
+# for t in x:
+#     print(int(t)+1);
 
 
 
